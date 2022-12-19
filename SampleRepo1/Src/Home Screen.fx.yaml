@@ -84,3 +84,9 @@
         Y: =471
         ZIndex: =6
 
+    Icon7 As icon.Airplane:
+        Icon: =Icon.Airplane
+        X: =899
+        Y: =646
+        ZIndex: =7
+
